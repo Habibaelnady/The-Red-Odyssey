@@ -1,0 +1,6 @@
+event_id,location,source_sol,sol,event_type,start_time_seconds,duration_seconds,end_time_seconds,intensity,max_wind_multiplier,minimum_visibility_percent,solar_power,trigger_local_hour,trigger_temperature_k,trigger_pressure_pa,trigger_solar_flux_w_m2,trigger_wind_speed_m_s,peak_wind_speed_m_s,wind_support_threshold_m_s,trigger_dust_optical_depth,source_dust_storm_event
+EVENT_002,Arcadia_Planitia,6,3,strong_winds,266.25,79.75,346.0,0.97,1.65,100,15,15.214,242.157,805.172,332.71,3.469,5.075,3.289,0.270754,0
+EVENT_001,Arcadia_Planitia,4,7,severe_dust_storm,264.47,81.53,346.0,0.92,1.55,15,5,15.113,242.25,806.318,339.203,3.345,5.075,3.289,0.27088,1
+EVENT_004,Southern_Meridiani_Planum,4,3,severe_dust_storm,140.79,78.68,219.47,0.99,1.55,15,5,8.045,202.318,663.415,174.444,9.737,13.675,9.104,0.198333,1
+EVENT_005,Southern_Meridiani_Planum,7,4,strong_winds,139.33,49.16,188.49,0.7,1.65,100,15,7.962,201.29,662.811,166.326,9.519,13.675,9.104,0.198395,0
+EVENT_003,Southern_Meridiani_Planum,3,7,strong_winds,139.77,51.06,190.84,0.94,1.65,100,15,7.987,201.47,662.914,168.643,9.577,13.675,9.104,0.198399,0
